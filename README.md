@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Murat-Han
-- 👀 I’m interested in JAVASCRIPT,REACT AND REACT NATIVE
+- 👀 I’m interested in JAVASCRIPT, REACT AND REACT NATIVE
 - 🌱 I’m currently learning REACT AND REACT NATIVE
 - 💞️ I’m looking to collaborate on JAVASCRIPT PROJECTS
 - 📫 How to reach me https://www.linkedin.com/in/murat-han-470716128/
